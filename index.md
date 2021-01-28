@@ -91,7 +91,7 @@ Kenntnisse in Python, wie sie im Studiengang WOW im Rahmen der Einführungsveran
 
 ## Studienmaterialien
 
-** ACHTUNG: ** Die Materialien werden erst im Laufe des Trimestes ergänzt, die Links funktionieren also erst am Tag der jeweiligen Veranstaltung!
+**ACHTUNG:** Die Materialien **werden erst im Laufe des Trimestes ergänzt,** die **Links funktionieren noch nicht,** sondern erst am Tag der jeweiligen Veranstaltung!
 
 Sie können die Unterlagen, die im Vorlesungsteil der Veranstaltung gezeigt werden, jeweils in vier verschiedenen Formen nutzen:
 
